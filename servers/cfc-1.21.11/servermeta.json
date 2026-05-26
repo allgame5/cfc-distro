@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///home/leon/Dokumente/cfc-distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "CubeFlash.net",
+    "description": "Join the CF server",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "cubeflash.net",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.19.2"
+  },
+  "untrackedFiles": []
+}

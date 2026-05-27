@@ -119,8 +119,8 @@
               "name": "Continuity",
               "type": "Library",
               "artifact": {
-                "size": 0,
-                "MD5": "",
+                "size": 997125,
+                "MD5": "d0011d547cfb5428b25071a2b518a776",
                 "url": "https://cfc-distro.pages.dev/repo/mods/continuity-3.0.1-beta.1+1.21.11.jar"
               }
             },
@@ -129,8 +129,8 @@
               "name": "ShulkerBoxTooltip",
               "type": "Library",
               "artifact": {
-                "size": 0,
-                "MD5": "",
+                "size": 389259,
+                "MD5": "2db6b45c2162251659ca8b96aa938232",
                 "url": "https://cfc-distro.pages.dev/repo/mods/shulkerboxtooltip-fabric-5.2.16+1.21.11.jar"
               }
             }

@@ -98,9 +98,40 @@
               "name": "Fabric (intermediary)",
               "type": "Library",
               "artifact": {
-                "size": 797685,
+                "size": 797685",
                 "MD5": "54a87ea75e373bc39b2d36df201231ea",
                 "url": "https://cfc-distro.pages.dev/repo/lib/net/fabricmc/intermediary/1.21.11/intermediary-1.21.11.jar"
+              }
+            },
+
+            {
+              "id": "fabric-api",
+              "name": "Fabric API",
+              "type": "Library",
+              "artifact": {
+                "size": 0,
+                "MD5": "",
+                "url": "https://cfc-distro.pages.dev/repo/mods/fabric-api-0.141.4+1.21.11.jar"
+              }
+            },
+            {
+              "id": "continuity",
+              "name": "Continuity",
+              "type": "Library",
+              "artifact": {
+                "size": 0,
+                "MD5": "",
+                "url": "https://cfc-distro.pages.dev/repo/mods/continuity-3.0.1-beta.1+1.21.11.jar"
+              }
+            },
+            {
+              "id": "shulkerboxtooltip",
+              "name": "ShulkerBoxTooltip",
+              "type": "Library",
+              "artifact": {
+                "size": 0,
+                "MD5": "",
+                "url": "https://cfc-distro.pages.dev/repo/mods/shulkerboxtooltip-fabric-5.2.16+1.21.11.jar"
               }
             }
           ]

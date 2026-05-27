@@ -109,8 +109,8 @@
               "name": "Fabric API",
               "type": "Library",
               "artifact": {
-                "size": 0,
-                "MD5": "",
+                "size": 2413332,
+                "MD5": "5aeec6148c885849936a152bf4683c6d",
                 "url": "https://cfc-distro.pages.dev/repo/mods/fabric-api-0.141.4+1.21.11.jar"
               }
             },

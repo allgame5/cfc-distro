@@ -107,7 +107,7 @@
             {
               "id": "fabric-api",
               "name": "Fabric API",
-              "type": "Library",
+              "type": "Mod",
               "artifact": {
                 "size": 2413332,
                 "MD5": "5aeec6148c885849936a152bf4683c6d",
@@ -117,7 +117,7 @@
             {
               "id": "continuity",
               "name": "Continuity",
-              "type": "Library",
+              "type": "Mod",
               "artifact": {
                 "size": 997125,
                 "MD5": "d0011d547cfb5428b25071a2b518a776",
@@ -127,7 +127,7 @@
             {
               "id": "shulkerboxtooltip",
               "name": "ShulkerBoxTooltip",
-              "type": "Library",
+              "type": "Mod",
               "artifact": {
                 "size": 389259,
                 "MD5": "2db6b45c2162251659ca8b96aa938232",

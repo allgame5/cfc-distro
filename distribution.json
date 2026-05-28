@@ -98,7 +98,7 @@
               "name": "Fabric (intermediary)",
               "type": "Library",
               "artifact": {
-                "size": 797685",
+                "size": 797685,
                 "MD5": "54a87ea75e373bc39b2d36df201231ea",
                 "url": "https://cfc-distro.pages.dev/repo/lib/net/fabricmc/intermediary/1.21.11/intermediary-1.21.11.jar"
               }
